@@ -1,0 +1,22 @@
+.btn-blue{
+  background-color: #0074BE;
+  padding: 10px 15px;
+  border-radius: 4px;
+  color: White;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+.btn-2{
+  display: flex;
+  justify-content: center;
+  background-color: #0074BE;
+  padding: 40px 15px;
+  border-radius: 4px;
+  color: White;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
